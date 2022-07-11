@@ -4,11 +4,13 @@ Procedura importu na urządzenia z systemem Android - może niestety różnić s
 
 1. Znajdź wiadomość z plikiem wizytówki i pacnij ją, aby otworzyć.
 
+    > Zakładam, że tak plik został dostarczony. Jeśli użyto współdzielonego dysku Google Drive procedura będzie identyczna.
+
     ![Wizytówka w wiadomości WhatsApp](./media/android-whatsapp-message.jpg)
 
 1. **Opcjonalne** Spowoduje to prawdopodobnie wyświetlenie zapytania o aplikację, która ma zostać użyta do tego celu.
 
-    I albo zostanie zasugerowana aplikacja `Kontakty`, albo z listy ją wybieramy.
+    I albo zostanie zasugerowana automatycznie aplikacja `Kontakty`, albo z listy ją wybieramy.
 
     ![Wybór aplikacji docelowej](./media/android-open-contacts.jpg)
 

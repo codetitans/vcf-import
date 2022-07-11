@@ -2,7 +2,9 @@
 
 Procedura importu na urządzeniu marki Apple z systemem iOS wymaga kilku kliknięć.
 
-1. Znajdź wiadomość z plikiem wizytówki i pacnij ją.
+1. Znajdź wiadomość w WhatsApp z plikiem wizytówki i pacnij ją.
+
+    > Zakładam, że tak plik został dostarczony. Jeśli użyto współdzielonego dysku Google Drive procedura będzie identyczna.
 
     ![Wiadomość z wizytówką](./media/ios-whatsapp-message.jpeg)
 
